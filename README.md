@@ -62,8 +62,8 @@ Permitir o usuário remover cursos na plataforma.
 ## Ferramenta utilizada para mapeamento dos Casos de Testes
 Além de criar as planilhas conforme solicitado foi utilizado a ferramenta qase.io de controle de Cenários, casos, planos e execução de testes, para ter um maior controle de todos os testes e execuções. Acaba se tornando muito mais prático e rápido a criação dos Casos de testes e etc. Essa ferramente pode ajudar em várias formas, como geração de relatórios de todos os testes realizados, reports de todos os testes (gráficos), pode ser integrado junto da automação (cypress) para execução em uma pipeline de testes e muito mais...
 
-Para visualizar os testes basta clicar aqui: [qase.io](https://app.qase.io/public/report/0471ff1144d06544728aad755dffedbb146cc5af)
-Um breve vídeo mostrando a ferramenta [Vídeo Qase](https://drive.google.com/file/d/1Oqw2CGx0A6PxzmJf7_OE1llzP38dj34N/view?usp=sharing)
+* Para visualizar os testes basta clicar aqui: [qase.io](https://app.qase.io/public/report/0471ff1144d06544728aad755dffedbb146cc5af)
+* Um breve vídeo mostrando a ferramenta [Vídeo Qase](https://drive.google.com/file/d/1Oqw2CGx0A6PxzmJf7_OE1llzP38dj34N/view?usp=sharing)
 
 
 ## Links úteis
