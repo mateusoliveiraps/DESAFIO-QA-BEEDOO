@@ -1,8 +1,10 @@
 # DESAFIO-QA-BEEDOO
 
+## Histórias de usuários
+
 Para criação das Users Stories foi feita uma análise das funcionalidades da aplicação Beedoo QA Chalenge e que foram encontrados a partir de testes de exploração.
 
-1. Cadastrar Cursos
+### 1. Cadastrar Cursos
 
 	História 
 	Como usuário dos cursos na Beedoo, 
@@ -21,7 +23,7 @@ Para criação das Users Stories foi feita uma análise das funcionalidades da a
 	O sistema deve validar as entradas para garantir que as informações necessárias foram informadas.
 	O sistema deve listar os cursos após cadastrado.
 
-2. Listagem de Cursos
+### 2. Listagem de Cursos
 
 	História 
 	Como usuário de cursos na Beedoo, 
@@ -39,7 +41,7 @@ Para criação das Users Stories foi feita uma análise das funcionalidades da a
 	A listagem dos cursos, deve ter informações básicas como nome do curso, descrição, modalidade (presencial ou online), datas de inicio e fim e número de vagas
 	A lista deve exibir apenas os cursos cadastrados na plataforma
 
-3. Excluir Cursos
+### 3. Excluir Cursos
 	
 	História
 	Como um usuário de cursos da Beedoo,
@@ -56,3 +58,11 @@ Para criação das Users Stories foi feita uma análise das funcionalidades da a
 	O usuário deve ter acesso a listagem de cursos.
 	O usuário deve ter a opção de exclusão individual de cada curso.
 	O curso deve ser removido após clicar no botão e não ser listado para o usuário.
+
+
+## Links úteis
+* [Especificação de Casos de Testes](https://docs.google.com/spreadsheets/d/1BuXCAg1z__H7FHQNB6HwQGbbGA38BKPannrSFW6UkYU/edit?usp=sharing)
+* [Relatório de Bugs](https://docs.google.com/spreadsheets/d/1NBZl2tbAmpUdGAvEYEjOkOnZbo8Sqy9Vu6PbmAvVayM/edit?usp=sharing)
+* [Evidências gravadas](https://drive.google.com/drive/folders/1-1de9i-upZA9aLFEC8KbFHbTCcytkVbT?usp=sharing)
+* [Sugestões de Melhorias e Observações importantes](https://docs.google.com/spreadsheets/d/1ja-6OMHPDpjwXniYcnbM1sgGTJBSmwtdf1teUqfwDwA/edit?usp=sharing)
+
