@@ -11,10 +11,10 @@ Para criação das Users Stories foi feita uma análise das funcionalidades da a
 	gostaria de registrar cursos em uma plataforma, 
 	para então ter o controle de todos os cursos que vou ministrar e suas respectivas informações.
 
-Problema
+## Problema
 Usuário dos cursos da Beedoo, não tem acesso a uma plataforma web para adicionar cursos. Por esse motivo o mesmo lança os cursos que pertence a si em uma agenda 	para ter o seu controle, sendo assim, ninguém tem acesso as informações dos cursos ministrado por esse instrutor.
 
-O que precisamos fazer
+## O que precisamos fazer
 Permitir o usuário cadastrar cursos em uma plataforma web.
 
 Critérios de aceite
