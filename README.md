@@ -59,6 +59,9 @@ Permitir o usuário remover cursos na plataforma.
 * O usuário deve ter a opção de exclusão individual de cada curso.
 * O curso deve ser removido após clicar no botão e não ser listado para o usuário.
 
+## Ferramenta utilizada para mapeamento dos Casos de Testes
+Utilizado uma ferramenta
+
 
 ## Links úteis
 * [Especificação de Casos de Testes](https://docs.google.com/spreadsheets/d/1BuXCAg1z__H7FHQNB6HwQGbbGA38BKPannrSFW6UkYU/edit?usp=sharing)
